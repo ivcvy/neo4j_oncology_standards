@@ -1,0 +1,659 @@
+﻿m.label,n.label,omop_concept_id,complementary
+DVHCurve_DoseUnits,EQD2Gy,,Y
+DVHCurve_DoseUnits,Gy,9519,
+DVHCurve_DoseUnits,cGE,37547082,
+DVHCurve_DoseUnits,cGy,32666,
+DVHCurve_StructureName,TG263,,
+DVHMetric_StructureName,TG263,,
+DiagStagingProst_ImagingForStagingN,(+Other),,
+DiagStagingProst_ImagingForStagingN,Choline Positron emission tomography,35622635,
+DiagStagingProst_ImagingForStagingN,Fluciclovine - Positron emission tomography,35622651,
+DiagStagingProst_ImagingForStagingN,PSMA-Positron emission tomography,37310747,
+DiagStagingProst_ImagingForStagingT,(+Other),,
+DiagStagingProst_ImagingForStagingT,Choline Positron emission tomography,35622635,
+DiagStagingProst_ImagingForStagingT,Fluciclovine - Positron emission tomography,35622651,
+DiagStagingProst_ImagingForStagingT,PSMA-Positron emission tomography,37310747,
+DiagStagingProst_ImagingforStagingM,(+Other),,
+DiagStagingProst_ImagingforStagingM,Bone Scan,4217238,
+DiagStagingProst_ImagingforStagingM,Choline Positron emission tomography,35622635,
+DiagStagingProst_ImagingforStagingM,Fluciclovine - Positron emission tomography,35622651,
+DiagStagingProst_ImagingforStagingM,Imaging not used,,
+DiagStagingProst_ImagingforStagingM,PSMA - Positron emission tomography,37310747,
+DiagStagingProst_ProstatectomyMarginStatus,Negative,,
+DiagStagingProst_ProstatectomyMarginStatus,Positive,,
+DiagStagingTreatmentOverview_RadTherAsPartOfTreatment,Indeterminate,,
+DiagStagingTreatmentOverview_RadTherAsPartOfTreatment,No,,
+DiagStagingTreatmentOverview_RadTherAsPartOfTreatment,Yes,,
+DiagStagingTreatmentOverview_SurgAsPartOfTreatment,Indeterminate,,
+DiagStagingTreatmentOverview_SurgAsPartOfTreatment,No,,
+DiagStagingTreatmentOverview_SurgAsPartOfTreatment,Yes,,
+DiagStagingTreatmentOverview_SysTherAsPartOfTreatment,Indeterminate,,
+DiagStagingTreatmentOverview_SysTherAsPartOfTreatment,No,,
+DiagStagingTreatmentOverview_SysTherAsPartOfTreatment,Yes,,
+DiagStaging_DiseaseExtentAssessmentMethod,(+ Other),,
+DiagStaging_DiseaseExtentAssessmentMethod,Bone Scan,4217238,
+DiagStaging_DiseaseExtentAssessmentMethod,CT Scan,4300757,
+DiagStaging_DiseaseExtentAssessmentMethod,Choline PET,35622635,
+DiagStaging_DiseaseExtentAssessmentMethod,DECIPHER Genomic score,,Y
+DiagStaging_DiseaseExtentAssessmentMethod,Fluciclovine - PET,35622651,
+DiagStaging_DiseaseExtentAssessmentMethod,Liquid Biopsy,19137769,
+DiagStaging_DiseaseExtentAssessmentMethod,MRI,4013636,
+DiagStaging_DiseaseExtentAssessmentMethod,PSMA-PET,37310747,
+DiagStaging_GeneticSusceptibilityMarkers,(+Other),,
+DiagStaging_GeneticSusceptibilityMarkers,ATM,40776135,
+DiagStaging_GeneticSusceptibilityMarkers,BRCA 1,35950928,
+DiagStaging_GeneticSusceptibilityMarkers,BRCA 2,35950178,
+DiagStaging_GeneticSusceptibilityMarkers,HOXB13,35945901,
+DiagStaging_GeneticSusceptibilityMarkers,Hereditary Breast and Ovarian Syndrome,37397555,
+DiagStaging_ICDCode,Reference Systems for Values:    https://www.icd10data.com/,,
+DiagStaging_ICDVersion,ICD10,,
+DiagStaging_ICDVersion,ICD9,,
+DiagStaging_ImagingBiopsy,Ultrasound,4037672,
+DiagStaging_PathologyMolecularTestName,(+ Other),,
+DiagStaging_PathologyMolecularTestName,DECIPHER,,Y
+DiagStaging_PathologyMolecularTestName,Oncotype DX Genomic Prostate Score,,Y
+DiagStaging_PathologyMolecularTestName,ProMark,,Y
+DiagStaging_PathologyMolecularTestName,Prolaris,,Y
+DiagStaging_PrimaryICDCodesWhenTreating Secondary,Current ICD standard value set e.g. ICD10,,
+DiagStaging_StagingM,Information Not Available,,
+DiagStaging_StagingM,M0,,
+DiagStaging_StagingM,M1a,,
+DiagStaging_StagingM,M1b,,
+DiagStaging_StagingM,M1c,,
+DiagStaging_StagingM,Mx,,
+DiagStaging_StagingN,Information Not Available,,
+DiagStaging_StagingN,N0,,
+DiagStaging_StagingN,N1,,
+DiagStaging_StagingN,Nx,,
+DiagStaging_StagingSystem,AJCC7,,
+DiagStaging_StagingSystem,AJCC8,,
+DiagStaging_StagingSystem,AJCC9,,
+DiagStaging_StagingT,Information Not Available,,
+DiagStaging_StagingT,T1a,,
+DiagStaging_StagingT,T1b,,
+DiagStaging_StagingT,T1c,,
+DiagStaging_StagingT,T2a,,
+DiagStaging_StagingT,T2b,,
+DiagStaging_StagingT,T2c,,
+DiagStaging_StagingT,T3a,,
+DiagStaging_StagingT,T3b,,
+DiagStaging_StagingT,T4,,
+DiagStaging_StagingT,Tx (only if prostate has been removed),,
+DiagStaging_StagingTCategory,Clinical,1008945,
+DiagStaging_StagingTCategory,Pathologic,1008949,
+DiagStaging_StagingTCategory,Radiographic,,Y
+Histology,Acinar adenocarcinoma,4164740,
+Histology,Adenocarcinoma with neuroendocrine differentiation,4029015,
+Histology,Adenocarcinoma with neuroendocrine features,,Y
+Histology,Adenosquamous carcinoma,4241843,
+Histology,Basal cell carcinoma,4028320,
+Histology,Ductal Carcinoma,3382985,
+Histology,Large cell neuroendocrine carcinoma,4029971,
+Histology,Mucinous (colloid) acinar adenocarcinoma,,Y
+Histology,Other,,
+Histology,Papillary Ductal Adenocarcinoma,4148449,
+Histology,Prostatic intraepithelial neoplasia (high grade),40489291,
+Histology,Sarcomatoid acinar adenocarcinoma,,Y
+Histology,Signet ring-like cell acinar adenocarcinoma,4227888,
+Histology,Small Cell Carcinoma,36712771,
+Histology,Solid Ductal Adenocarcinomas,,
+Histology,Urothelial Carcinoma,,
+Histology,ductal Adenocarcinoma,,
+Image_Type,Cone Beam Computed Tomography,37397149,
+Image_Type,DEXA (Bone Density),4086416,
+Image_Type,Fluoroscopy,4195288,
+Image_Type,Paired Onboard MV-kV,,Y
+Image_Type,Positron Emission Tomography,4305790,
+Image_Type,Single Photon Emission Computed Tomograph,4019823,
+Image_Type,Synthetic Computed Tomography,,Y
+Image_Type,Ultrasound,4037672,
+InterventionalProcedure_Attribution,Curative,4162591,
+InterventionalProcedure_Attribution,Hormonal,4132920,
+InterventionalProcedure_Attribution,"Iatrogenic Toxicity Management (e.g. proctoscopy with cauterization for rectal bleeding, urethral stricture dilation)",,Y
+InterventionalProcedure_Attribution,Mechanical Stabilization,4019003,
+InterventionalProcedure_Attribution,Oncologic Palliation,4179711,
+InterventionalProcedure_Attribution,Therapeutic,4133895,
+InterventionalProcedure_DistanceToPatientDomicileDirectUnits,Kilometers,9536,
+InterventionalProcedure_DistanceToPatientDomicileDirectUnits,Miles,4121361,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,(+Other),,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,Address,4265448,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,City,41883392,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,Country,41907100,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,County,4480350,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,GPS,601587,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,Postal Code,3043579,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,Province,37533495,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDirect Method,State,4161694,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDriving,"Reference Systems for Values: There are several applications which may be used to calculate driving distance between locations. References for determining Methods for Calculating travel distance AHRQ https://hcup-us.ahrq.gov/reports/methods/MS2021-02-Distance-to-Hospital.jsp#t1 , https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-7-63",,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDrivingUnits,Kilometers,9536,
+InterventionalProcedure_DistanceToPatientPrimaryResidenceDrivingUnits,Miles,4121361,
+InterventionalProcedure_Intent,Chronic management,,Y
+InterventionalProcedure_Intent,Curative,4162591,
+InterventionalProcedure_Intent,Diagnostic,4129646,
+InterventionalProcedure_Intent,Functional improvement,,Y
+InterventionalProcedure_Intent,Palliative,4179711,
+InterventionalProcedure_Intent,Prophylactic,4232816,
+InterventionalProcedure_ResidenceDuringTreatment,Other Location,,
+InterventionalProcedure_ResidenceDuringTreatment,Other Location Subsidized,,
+InterventionalProcedure_ResidenceDuringTreatment,Primary Residence,,
+InterventionalProcedure_Type,(+ Other),,
+InterventionalProcedure_Type,Bladder cauterization,4263359,
+InterventionalProcedure_Type,GI cauterization,,
+InterventionalProcedure_Type,Hyperbaric oxygen,4087611,
+InterventionalProcedure_Type,Kyphoplasty,19140229,
+InterventionalProcedure_Type,Lymph Node Dissection,,
+InterventionalProcedure_Type,Metastatectomy,35804760,
+InterventionalProcedure_Type,Orchiectomy,4003224,
+InterventionalProcedure_Type,Other bone stabilization,,
+InterventionalProcedure_Type,Penile implant,4205127,
+InterventionalProcedure_Type,Suprapubic tube,4117709,
+InterventionalProcedure_Type,TURP,4234536,
+InterventionalProcedure_Type,Urethral dilation,42793253,
+LabResult_Name,(+Other),,
+LabResult_Name,PSA,4272032,
+LabResult_Name,Testosterone,4020107,
+PRO_Instrument,EORTC QLQ-PR25,37550048,
+PRO_Instrument,EPIC-26 (Priority 1),37536310,
+PRO_Instrument,FACT-P,37550645,
+PRO_Instrument,HEART (aligns to ASTRO Health Policy recommendations),,Y
+PRO_Instrument,PRO-CTCAE,37526754,
+PatientEncounter_DepartmentCategorization,(+ Other),,
+PatientEncounter_DepartmentCategorization,Ambulatory Care,44806889,
+PatientEncounter_DepartmentCategorization,Behavioral,,Y
+PatientEncounter_DepartmentCategorization,Breast Care,,Y
+PatientEncounter_DepartmentCategorization,Cardiovascular,4123936,
+PatientEncounter_DepartmentCategorization,Genetics,4138039,
+PatientEncounter_DepartmentCategorization,Gerontology,4138938,
+PatientEncounter_DepartmentCategorization,Infusion Clinic,3800422,
+PatientEncounter_DepartmentCategorization,Pain Clinic,3800422,
+PatientEncounter_DepartmentCategorization,Pulmonary,4138934,
+PatientEncounter_DepartmentCategorization,Sleep Disorders,38004264,
+PatientEncounter_DepartmentCategorization,Speech Pathology,3195896,
+PatientEncounter_DepartmentCategorization,Wound Care,45879965,
+PatientEncounter_DistanceToPatientDomicileDirectUnits,Kilometers,9536,
+PatientEncounter_DistanceToPatientDomicileDirectUnits,Miles,4121361,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,(+Other),,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,Address,4265448,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,City,41883392,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,Country,41907100,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,County,4480350,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,GPS,601587,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,Postal Code,3043579,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,Province,37533495,
+PatientEncounter_DistanceToPatientPrimaryResidenceDirect Method,State,4161694,
+PatientEncounter_DistanceToPatientPrimaryResidenceDriving,"Reference Systems for Values: There are several applications which may be used to calculate driving distance between locations. References for determining Methods for Calculating travel distance AHRQ https://hcup-us.ahrq.gov/reports/methods/MS2021-02-Distance-to-Hospital.jsp#t1 , https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-7-63",,
+PatientEncounter_DistanceToPatientPrimaryResidenceDrivingUnits,Kilometers,9536,
+PatientEncounter_DistanceToPatientPrimaryResidenceDrivingUnits,Miles,4121361,
+PatientEncounter_Environment,In Patient,9201,
+PatientEncounter_Environment,Out Patient,9202,
+PatientEncounter_Multi-SpecialtyConsults,Ambulatory Care,44806889,
+PatientEncounter_Multi-SpecialtyConsults,Behavioral,,Y
+PatientEncounter_Multi-SpecialtyConsults,Breast Care,,Y
+PatientEncounter_Multi-SpecialtyConsults,Cardiovascular,4123936,
+PatientEncounter_Multi-SpecialtyConsults,Genetics,4138039,
+PatientEncounter_Multi-SpecialtyConsults,Gerontology,4138938,
+PatientEncounter_Multi-SpecialtyConsults,Infusion Clinic,3800422,
+PatientEncounter_Multi-SpecialtyConsults,Pain Clinic,3800422,
+PatientEncounter_Multi-SpecialtyConsults,Pulmonary,4138934,
+PatientEncounter_Multi-SpecialtyConsults,Sleep Disorders,38004264,
+PatientEncounter_Multi-SpecialtyConsults,Speech Pathology,3195896,
+PatientEncounter_Multi-SpecialtyConsults,Wound Care,45879965,
+PatientEncounter_ResidenceDuringTreatment,Other Location,,
+PatientEncounter_ResidenceDuringTreatment,Other Location Subsidized,,
+PatientEncounter_ResidenceDuringTreatment,Primary Residence,,
+PatientEncounter_Type,Completion Visit,,Y
+PatientEncounter_Type,Consultation Visit,4014829,
+PatientEncounter_Type,Home Care Visit,4246074,
+PatientEncounter_Type,Hospital Encounter,,
+PatientEncounter_Type,OTV Visit,,Y
+PatientEncounter_Type,Radiation Oncology Consultation,,Y
+PatientEncounter_Type,Telemedicine Encounter,3558696,
+PatientInformation_BloodPressurePosition,Lying,4060832,
+PatientInformation_BloodPressurePosition,Sitting,4060834,
+PatientInformation_BloodPressurePosition,Standing,4060833,
+PatientInformation_BloodPressurePosition,Supine,4481922,
+PatientInformation_CaregiverofDisabledPerson,Ambulatory difficulty,439405,
+PatientInformation_CaregiverofDisabledPerson,Cognitive difficulty,,Y
+PatientInformation_CaregiverofDisabledPerson,Hearing difficulty,4038030,
+PatientInformation_CaregiverofDisabledPerson,Independent living difficulty,,Y
+PatientInformation_CaregiverofDisabledPerson,Self-care difficulty,4269072,
+PatientInformation_CaregiverofDisabledPerson,Vision difficulty,4265433,
+PatientInformation_Disability,Ambulatory difficulty,439405,
+PatientInformation_Disability,Cognitive difficulty,,Y
+PatientInformation_Disability,Hearing difficulty,4038030,
+PatientInformation_Disability,Independent living difficulty,,Y
+PatientInformation_Disability,Self-care difficulty,4269072,
+PatientInformation_Disability,Vision difficulty,4265433,
+PatientInformation_EducationLevel,Associates degree academic,4588035,
+PatientInformation_EducationLevel,Associates degree vocational,4588167,
+PatientInformation_EducationLevel,Bachelor's degree,37171568,
+PatientInformation_EducationLevel,College no degree,45882538,
+PatientInformation_EducationLevel,Doctorate degree,4234638,
+PatientInformation_EducationLevel,Elementary School,43022063,
+PatientInformation_EducationLevel,High School Or GED,1990495,
+PatientInformation_EducationLevel,Master's degree,37171569,
+PatientInformation_EducationLevel,None,,
+PatientInformation_EducationLevel,Professional degree,37079233,
+PatientInformation_GenderIdentity,Declines to disclose,,
+PatientInformation_GenderIdentity,Indeterminate,,
+PatientInformation_GenderIdentity,Non-binary,1585841,
+PatientInformation_GenderIdentity,Other,,
+PatientInformation_GenderIdentity,Transgender female,4248372,
+PatientInformation_GenderIdentity,Transgender male,4234364,
+PatientInformation_Insurance,Private Insurance Direct Purchase,,Y
+PatientInformation_Insurance,Private Insurance Employment Based,,Y
+PatientInformation_Insurance,Private Insurance Other,,
+PatientInformation_Insurance,Private Insurance TRICARE,37173982,
+PatientInformation_Insurance,Public Health Insurance Medicaid,762911,
+PatientInformation_Insurance,Public Health Insurance Medicare,762913,
+PatientInformation_Insurance,Public Health Insurance Other,,
+PatientInformation_Insurance,Public Health Insurance VA care,,Y
+PatientInformation_Insurance,Uninsured,19395775,
+PatientInformation_LanguageSpokenAtHome,(+ Other),,
+PatientInformation_LanguageSpokenAtHome,Arabic,4181374,
+PatientInformation_LanguageSpokenAtHome,Bengali,4052786,
+PatientInformation_LanguageSpokenAtHome,Cantonese,1620965,
+PatientInformation_LanguageSpokenAtHome,English,4180186,
+PatientInformation_LanguageSpokenAtHome,French,4180190,
+PatientInformation_LanguageSpokenAtHome,German,4182504,
+PatientInformation_LanguageSpokenAtHome,Hindi,4052346,
+PatientInformation_LanguageSpokenAtHome,Japanese,4181524,
+PatientInformation_LanguageSpokenAtHome,Korean,4175771,
+PatientInformation_LanguageSpokenAtHome,Mandarin,36032449,
+PatientInformation_LanguageSpokenAtHome,Portuguese,4181536,
+PatientInformation_LanguageSpokenAtHome,Reference Systems for Values: ISO 639-2/T https://www.loc.gov/standards/iso639-2/php/code_list.php,,
+PatientInformation_LanguageSpokenAtHome,Russian,4181539,
+PatientInformation_LanguageSpokenAtHome,Sign Language,40483152,
+PatientInformation_LanguageSpokenAtHome,Spanish,4182511,
+PatientInformation_LanguageSpokenAtHome,Urdu,4059788,
+PatientInformation_PHIDerivedMeasureItem,(+ Other),,
+PatientInformation_PHIDerivedMeasureItem,Median Home Value from County,,Y
+PatientInformation_PHIDerivedMeasureItem,Median Home Value from Postal Code,,Y
+PatientInformation_PHIDerivedMeasureItem,Median Household Income from County,,Y
+PatientInformation_PHIDerivedMeasureItem,Median Household Income from Postal Code,,Y
+PatientInformation_TemperatureBodySite,Axillary,4188706,
+PatientInformation_TemperatureBodySite,Ear,21490907,
+PatientInformation_TemperatureBodySite,Forehead,4212763,
+PatientInformation_TemperatureBodySite,Rectal,3022060,
+PatientInformation_VitalStatus,Alive,4230556,
+PatientInformation_VitalStatus,Dead,434489,
+PatientTreatmentOutcome_DiseaseStatus,(+Other),,
+PatientTreatmentOutcome_DiseaseStatus,Biochemical Recurrence,,Y
+PatientTreatmentOutcome_DiseaseStatus,Distant Recurrence,35942737,
+PatientTreatmentOutcome_DiseaseStatus,Indeterminate (possible pseudo-progression),,Y
+PatientTreatmentOutcome_DiseaseStatus,Local Recurrence,35943622,
+PatientTreatmentOutcome_DiseaseStatus,No evidence of disease (NED),36307777,
+PatientTreatmentOutcome_DiseaseStatus,Nodal Recurrence,,Y
+PatientTreatmentOutcome_DiseaseStatus,Primary Recurrence,,Y
+PatientTreatmentOutcome_DiseaseStatus,Under Treatment,45917766,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,(+Other),,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,Biochemical marker (PSA),4272032,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,Bone scan,4217238,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,Computed Tomograph,4300757,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,PET-CT (C-11 choline),40481886,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,PET-CT (F-18 fluciclovine),42689555,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,PET-CT (PSMA),37310747,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,PSA,4272032,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,Physical exam,45952061,
+PatientTreatmentOutcome_EvaluationBasisOfDiseaseStatus,Plain film radiographs,4056681,
+PatientTreatmentOutcome_SiteOfRecurrence,Distant- CHAARTED-Low Volume,,Y
+PatientTreatmentOutcome_SiteOfRecurrence,Distant-CHAARTED-High Volume,,Y
+PatientTreatmentOutcome_SiteOfRecurrence,Distant-None,,
+PatientTreatmentOutcome_SiteOfRecurrence,Metastatic-Bone,,
+PatientTreatmentOutcome_SiteOfRecurrence,Metastatic-Viscera,,
+PatientTreatmentOutcome_SiteOfRecurrence,Nodal-Aortic,,
+PatientTreatmentOutcome_SiteOfRecurrence,Nodal-Distant,,
+PatientTreatmentOutcome_SiteOfRecurrence,Nodal-None,,
+PatientTreatmentOutcome_SiteOfRecurrence,Nodal-Pelvic,,
+PatientTreatmentOutcome_SiteOfRecurrence,Primary - Prostate,,
+PatientTreatmentOutcome_SiteOfRecurrence,Primary - Seminal Vesicles,,
+PatientTreatmentOutcome_SiteOfRecurrence,Primary- None,,
+Patient_CauseOfDeathAttribution,Definitely Related,,
+Patient_CauseOfDeathAttribution,Probably Related,,
+Patient_CauseOfDeathAttribution,Unknown,,
+Patient_Ethnicity,Indeterminate,,
+Patient_Race,Indeterminate,,
+Patient_Race,Other Race,,
+Patient_SexAtBirth,Not Disclosed,,
+Patient_SexAtBirth,Undifferentiated,,
+PerformanceScore_System,ECOG,36305384,
+PerformanceScore_System,Karnofsky,4169154,
+ProviderReportedToxicity_ToxicityMeasure,(+ Other),,
+ProviderReportedToxicity_ToxicityMeasure,Bladder Spasms (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Cystitis Noninfective (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Depression (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Diarrhea (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Dysuria (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Ejaculation Disorder (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Erectile Disfunction (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Fatigue (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Fecal Incontinence (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Gynecomastia (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Hematuria (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Hemorrhoids (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Hot flashes (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Libido Decrease (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,No toxicity assessment,,
+ProviderReportedToxicity_ToxicityMeasure,Proctitis (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Fissure (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Fistula (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Hemorrhage (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Mucositis (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Pain (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Perforation (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Stenosis (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Rectal Ulcer (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Fistula (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Frequency (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Incontinence (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Retention (Priority 1),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Tract Obstruction (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Tract Pain (Priority 2),,
+ProviderReportedToxicity_ToxicityMeasure,Urinary Urgency (Priority 1),,
+ProviderReportedToxicity_ToxicityValue,0,,
+ProviderReportedToxicity_ToxicityValue,1,,
+ProviderReportedToxicity_ToxicityValue,2,,
+ProviderReportedToxicity_ToxicityValue,3,,
+ProviderReportedToxicity_ToxicityValue,4,,
+ProviderReportedToxicity_ToxicityValue,5,,
+ProviderReportedToxicity_ToxictyCodingSystem,CTCAE v5.0,,
+RTCourseEvent_Type,Financial Problem,4052625,
+RTCourseEvent_Type,Lost to Follow-up,4163894,
+RTCourseEvent_Type,No Response To Treatment,4141764,
+RTCourseEvent_Type,Patient Died During Course (Request SNOMED Code),,Y
+RTCourseEvent_Type,Patient Has Moved Away,4086800,
+RTCourseEvent_Type,Patient Transferred to Different Institution,,
+RTCourseEvent_Type,Radiotherapy course changed due to toxicity(Request SNOMED Code),4161588,
+RTCourseEvent_Type,Refusal of treatment by patient,1243586,
+RTCourseEvent_Type,Treatment Break Due to Patient Non-Toxicity (Request SNOMED Code),,Y
+RTCourseEvent_Type,Treatment Break Due to Toxicity (Request SNOMED Code),,Y
+RTCourseEvent_Type,Treatment Completed,4082735,
+RTCourseEvent_Type,Treatment Missed -Patient cannot secure time away from work,,Y
+RTCourseEvent_Type,Treatment Missed- Patient cannot secure dependent care,,Y
+RTCourseEvent_Type,Treatment Missed-Patient lacking transportation,,Y
+RTCourseEvent_Type,Treatment Not Available,4145781,
+RTCourseEvent_Type,Treatment Not Tolerated,4253173,
+RTCourseTarget_DoseUnit,CGE,37547082,
+RTCourseTarget_DoseUnit,Gy,9519,
+RTCourseTarget_DoseUnit,cGy,32666,
+RTCourse_DistanceToPatientDomicileDirectUnits,Kilometers,9536,
+RTCourse_DistanceToPatientDomicileDirectUnits,Miles,4121361,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,(+Other),,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,Address,4265448,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,City,41883392,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,Country,41907100,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,County,4480350,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,GPS,601587,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,Postal Code,3043579,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,Province,37533495,
+RTCourse_DistanceToPatientPrimaryResidenceDirect Method,State,4161694,
+RTCourse_DistanceToPatientPrimaryResidenceDriving,"Reference Systems for Values: There are several applications which may be used to calculate driving distance between locations. References for determining Methods for Calculating travel distance AHRQ https://hcup-us.ahrq.gov/reports/methods/MS2021-02-Distance-to-Hospital.jsp#t1 , https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-7-63",,
+RTCourse_DistanceToPatientPrimaryResidenceDrivingUnits,Kilometers,9536,
+RTCourse_DistanceToPatientPrimaryResidenceDrivingUnits,Miles,4121361,
+RTCourse_Objective,Definitive,,
+RTCourse_Objective,Palliative,,
+RTCourse_Objective,Supportive,,
+RTCourse_ResidenceDuringTreatment,Other Location,,
+RTCourse_ResidenceDuringTreatment,Other Location Subsidized,,
+RTCourse_ResidenceDuringTreatment,Primary Residence,,
+RTPhaseTarget_DoseUnit,CGE,37547082,
+RTPhaseTarget_DoseUnit,Gy,9519,
+RTPhaseTarget_DoseUnit,cGy,32666,
+RTPhase_Modality,Carbon,,
+RTPhase_Modality,EBRACHY,,
+RTPhase_Modality,Electron,,
+RTPhase_Modality,HDR,,
+RTPhase_Modality,LDR-PERM,,
+RTPhase_Modality,LDR-TEMP,,
+RTPhase_Modality,Neutron,,
+RTPhase_Modality,PDR,,
+RTPhase_Modality,Photon,,
+RTPhase_Modality,Proton,,
+RTPhase_Modality,RADPHARM,,
+RTPhase_Technique,2D,,
+RTPhase_Technique,3D,,
+RTPhase_Technique,IMRT,,
+RTPhase_Technique,IORT,,
+RTPhase_Technique,VMAT,,
+RTPlanningStructure_PlanningStructureGeneration,Automated Multi-Institution Validated - AI/ML,,Y
+RTPlanningStructure_PlanningStructureGeneration,Automated Multi-Institution Validated - Algorithm Based,,Y
+RTPlanningStructure_PlanningStructureGeneration,Automated Multi-Institution Validated - Atlas Based,,Y
+RTPlanningStructure_PlanningStructureGeneration,Automated Single Institution Validated - AI/ML,,Y
+RTPlanningStructure_PlanningStructureGeneration,Automated Single Institution Validated - Algorithm Based,,Y
+RTPlanningStructure_PlanningStructureGeneration,Automated Single Institution Validated - Atlas Based,,Y
+RTPlanningStructure_PlanningStructureGeneration,Manual,,Y
+RTPlanningStructure_Type,Dose Monitoring,,Y
+RTPlanningStructure_Type,Dose Tuning,,Y
+RTPlanningStructure_Type,Image Guidance,,Y
+RTPlanningStructure_Type,Implanted Electronic Device (e.g. pacemaker),,Y
+RTPlanningStructure_Type,Organ At Risk,,Y
+RTPlanningStructure_Type,Target,,Y
+RTPrescriptionDoseObjective_Condition,ALARA,,Y
+RTPrescriptionDoseObjective_Priority,Desirable (3),,
+RTPrescriptionDoseObjective_Priority,Highly Desirable (2),,
+RTPrescriptionDoseObjective_Priority,Required (1),,
+RTPrescriptionDoseObjective_StructureType,Organ at Risk,,Y
+RTPrescriptionDoseObjective_StructureType,Target,,
+RTPrescriptionTarget_DoseUnit,CGE,37547082,
+RTPrescriptionTarget_DoseUnit,Gy,9519,
+RTPrescriptionTarget_DoseUnit,cGy,32666,
+RTTreatedFieldDetailsHadrons_RangeShifter,2D patient Compensator,,Y
+RTTreatedFieldDetailsHadrons_RangeShifter,In Beam Range Shifter,,Y
+RTTreatedFieldDetailsHadrons_RangeShifter,None,,
+RTTreatedFieldDetailsHadrons_RangeShifter,Patient Level Bolus,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Balloon Style,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Catheter Flap,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Cylinder,,
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Eye Plaque,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Heyman Capsules,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Hybrid,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Mold Applicator,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Ovoid,,
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Seeds,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Strut Style,,Y
+RTTreatedPlanDetailsBrachytherapy_DeliveryDevice,Tandem,,
+RTTreatedPlanDetailsBrachytherapy_Energy,None specified,,
+RTTreatedPlanDetailsBrachytherapy_Technique,CAV,,
+RTTreatedPlanDetailsBrachytherapy_Technique,CAV-IMB,,
+RTTreatedPlanDetailsBrachytherapy_Technique,INSTIT,,
+RTTreatedPlanDetailsBrachytherapy_Technique,IORT,,
+RTTreatedPlanDetailsBrachytherapy_Technique,LUM,,
+RTTreatedPlanDetailsBrachytherapy_Technique,SURF,,
+RTTreatedPlanDetailsBrachytherapy_Technique,VASC,,
+RTTreatedPlanDetailsHadrons_AreaCoverageMethod,Continuous Scanning,,Y
+RTTreatedPlanDetailsHadrons_AreaCoverageMethod,Mixed,,Y
+RTTreatedPlanDetailsHadrons_AreaCoverageMethod,Passive Scattering,,Y
+RTTreatedPlanDetailsHadrons_AreaCoverageMethod,Spot Scanning,,Y
+RTTreatedPlanDetailsHadrons_AreaCoverageMethod,Uniform Active Scanning,,Y
+RTTreatedPlanDetailsHadrons_FieldOptimizationMethod,Multi-field,,Y
+RTTreatedPlanDetailsHadrons_FieldOptimizationMethod,Single field,,Y
+RTTreatedPlanDetailsHadrons_ProtonRobustOptimization,Optimization to CTV,,Y
+RTTreatedPlanDetailsHadrons_ProtonRobustOptimization,Optimization to PTV,,Y
+RTTreatedPlanDetailsHadrons_RelativeBiologicalEffectivenessBasis,Fixed,,Y
+RTTreatedPlanDetailsHadrons_RelativeBiologicalEffectivenessBasis,LET based,,Y
+RTTreatedPlanDetailsHadrons_RelativeBiologicalEffectivenessBasis,Variable biologic model,,Y
+RTTreatedPlanDetailsHadrons_RepaintingTechnique,Layer Repainting,,Y
+RTTreatedPlanDetailsHadrons_RepaintingTechnique,Phase correlated repainting,,Y
+RTTreatedPlanDetailsHadrons_RepaintingTechnique,Spot dose repainting,,Y
+RTTreatedPlanDetailsHadrons_RepaintingTechnique,Volumetric repainting,,Y
+RTTreatedPlanDetailsRadiopharmaceutical_Energy,None specified,,
+RTTreatedPlanDetailsRadiopharmaceutical_Technique,Vascular,,
+RTTreatedPlanDetailsXRT_DeliveryDevice,Linac,,
+RTTreatedPlanDetailsXRT_DeliveryDevice,MR Linac,,Y
+RTTreatedPlanDetailsXRT_DeliveryDevice,Multi-Source,,
+RTTreatedPlanDetailsXRT_DeliveryDevice,Ring Linac,,Y
+RTTreatedPlanDetailsXRT_DeliveryDevice,Robotic Linac,,Y
+RTTreatedPlanDetailsXRT_DeliveryDevice,kV,,Y
+RTTreatedPlanDetailsXRT_Energy,None specified,,
+RTTreatedPlanDetailsXRT_IMRTLeafMotion,Multiple Static Segments,,Y
+RTTreatedPlanDetailsXRT_IMRTLeafMotion,None,,
+RTTreatedPlanDetailsXRT_IMRTLeafMotion,Sliding Window,,Y
+RTTreatedPlanDetailsXRT_Technique,2D,,
+RTTreatedPlanDetailsXRT_Technique,3D,,
+RTTreatedPlanDetailsXRT_Technique,IMRT,,
+RTTreatedPlanDetailsXRT_Technique,IORT,,
+RTTreatedPlanDetailsXRT_Technique,VMAT,,
+RTTreatedPlanTarget_DoseUnit,CGE,37547082,
+RTTreatedPlanTarget_DoseUnit,Gy,9519,
+RTTreatedPlanTarget_DoseUnit,cGy,32666,
+RTTreatedPlan_AdaptationOrRevision,Inter-fraction adaptation,,Y
+RTTreatedPlan_AdaptationOrRevision,Intra-fraction adaptation,,Y
+RTTreatedPlan_AdaptationOrRevision,Revision,,Y
+RTTreatedPlan_BreathControlMethod,(+Other),,
+RTTreatedPlan_BreathControlMethod,Active Breath Control,,Y
+RTTreatedPlan_BreathControlMethod,Compression,,Y
+RTTreatedPlan_BreathControlMethod,Gating,,Y
+RTTreatedPlan_BreathControlMethod,None,,
+RTTreatedPlan_BreathControlMethod,SDX,,Y
+RTTreatedPlan_BreathControlMethod,Voluntary Breath Hold,,Y
+RTTreatedPlan_DailyBowelBladderManagement,Bladder Empty,,Y
+RTTreatedPlan_DailyBowelBladderManagement,Bladder Full,,Y
+RTTreatedPlan_DailyBowelBladderManagement,Bowel,,Y
+RTTreatedPlan_DailyBowelBladderManagement,Gastric Filling,4319456,
+RTTreatedPlan_DailyBowelBladderManagement,None,,
+RTTreatedPlan_DoseDeliveryCategory,Conventional,,Y
+RTTreatedPlan_DoseDeliveryCategory,Hypofractionation,19137622,
+RTTreatedPlan_DoseDeliveryCategory,IORT,,Y
+RTTreatedPlan_DoseDeliveryCategory,Moderately Hypofractionated,,Y
+RTTreatedPlan_DoseDeliveryCategory,SBRT,,Y
+RTTreatedPlan_DoseDeliveryCategory,SRS,,Y
+RTTreatedPlan_DoseDeliveryCategory,Ultrahypofractionated,,Y
+RTTreatedPlan_DoseExpressedToMaterial,Muscle,,Y
+RTTreatedPlan_DoseExpressedToMaterial,Water,,Y
+RTTreatedPlan_FiducialMarkerType,Carbon Seed,,Y
+RTTreatedPlan_FiducialMarkerType,Coil,,Y
+RTTreatedPlan_FiducialMarkerType,Gold Seed,42092534,
+RTTreatedPlan_FiducialMarkerType,None,,
+RTTreatedPlan_FiducialMarkerType,Radiofrequency,,Y
+RTTreatedPlan_FiducialMarkerType,Stents,,Y
+RTTreatedPlan_FiducialMarkerType,Surgical Clips,,Y
+RTTreatedPlan_FrequencyOfPlanAssessment,Biweekly,4061709,
+RTTreatedPlan_FrequencyOfPlanAssessment,Once,4226232,
+RTTreatedPlan_FrequencyOfPlanAssessment,Per Session,,Y
+RTTreatedPlan_FrequencyOfPlanAssessment,Per Session - After Plan Delivery,,Y
+RTTreatedPlan_FrequencyOfPlanAssessment,Per Session - Before Plan Delivery,,Y
+RTTreatedPlan_FrequencyOfPlanAssessment,Per Session - Midpoint of Plan Delivery,,Y
+RTTreatedPlan_FrequencyOfPlanAssessment,Weekly,40287677,
+RTTreatedPlan_ImageGuidance,CT - MV,,Y
+RTTreatedPlan_ImageGuidance,CT - kV,,Y
+RTTreatedPlan_ImageGuidance,CT On Rails,,Y
+RTTreatedPlan_ImageGuidance,Conebeam CT - MV,,Y
+RTTreatedPlan_ImageGuidance,Conebeam CT - kV,,Y
+RTTreatedPlan_ImageGuidance,MR,,Y
+RTTreatedPlan_ImageGuidance,MV - radiograph,,Y
+RTTreatedPlan_ImageGuidance,None,,Y
+RTTreatedPlan_ImageGuidance,Optical Monitoring System,,Y
+RTTreatedPlan_ImageGuidance,Ultrasound,,Y
+RTTreatedPlan_ImageGuidance,kV - fluorograph,,Y
+RTTreatedPlan_ImageGuidance,kV - radiograph,,Y
+RTTreatedPlan_IntrafractionTreatmentModulation {SCTID-_; NCITC-_;NCIMT-_},(+ Other),,
+RTTreatedPlan_IntrafractionTreatmentModulation {SCTID-_; NCITC-_;NCIMT-_},Gantry Tracking,,Y
+RTTreatedPlan_IntrafractionTreatmentModulation {SCTID-_; NCITC-_;NCIMT-_},Gating,,Y
+RTTreatedPlan_IntrafractionTreatmentModulation {SCTID-_; NCITC-_;NCIMT-_},MLC Tracking,,Y
+RTTreatedPlan_IntrafractionTreatmentModulation {SCTID-_; NCITC-_;NCIMT-_},None,,
+RTTreatedPlan_IntrafractionVerificationCategory {SCTID-_; NCITC-_;NCIMT-_},Points or fiducials,,Y
+RTTreatedPlan_IntrafractionVerificationCategory {SCTID-_; NCITC-_;NCIMT-_},Projection,,Y
+RTTreatedPlan_IntrafractionVerificationCategory {SCTID-_; NCITC-_;NCIMT-_},Volumetric Anatomic,,Y
+RTTreatedPlan_IntrafractionVerificationCategory {SCTID-_; NCITC-_;NCIMT-_},Volumetric Biological,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},MRI,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Optical,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Orthogonal X Rays,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Radiofrequency,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Single field X Rays,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Thermal,,Y
+RTTreatedPlan_IntrafractionVerificationModality {SCTID-_; NCITC-_;NCIMT-_},Ultrasound,,Y
+RTTreatedPlan_Modality,Carbon,,
+RTTreatedPlan_Modality,EBRACHY,,
+RTTreatedPlan_Modality,Electron,,
+RTTreatedPlan_Modality,HDR,,
+RTTreatedPlan_Modality,LDR-PERM,,
+RTTreatedPlan_Modality,LDR-TEMP,,
+RTTreatedPlan_Modality,Neutron,,
+RTTreatedPlan_Modality,PDR,,
+RTTreatedPlan_Modality,Photon,,
+RTTreatedPlan_Modality,Proton,,
+RTTreatedPlan_Modality,RADPHARM,,
+RTTreatedPlan_PatientPosition,Decubitus,4127794,
+RTTreatedPlan_PatientPosition,Dorsal recumbent,,Y
+RTTreatedPlan_PatientPosition,Inclined,,Y
+RTTreatedPlan_PatientPosition,Knee-chest,45616039,
+RTTreatedPlan_PatientPosition,Lithotomy,4031023,
+RTTreatedPlan_PatientPosition,Prone,45615852,
+RTTreatedPlan_PatientPosition,Sitting,4142787,
+RTTreatedPlan_PatientPosition,Squatting,4237331,
+RTTreatedPlan_PatientPosition,Standing,958783,
+RTTreatedPlan_PatientPosition,Supine,45611019,
+RTTreatedPlan_PlanSumRegistrationBasis,Accumulated Dose (i.e. Dose Calculated from CBCT at Delivery ),,Y
+RTTreatedPlan_PlanSumRegistrationBasis,Planned Doses,,Y
+RTTreatedPlan_PlanSumRegistrationMethod,Deformable,,Y
+RTTreatedPlan_PlanSumRegistrationMethod,Rigid,,Y
+RTTreatedPlan_TreatmentPlanningGeneration,Automated-Commercial System,,Y
+RTTreatedPlan_TreatmentPlanningGeneration,Automated-In-house System,,Y
+RTTreatedPlan_TreatmentPlanningGeneration,Automatic,,Y
+RTTreatedPlan_TreatmentPlanningGeneration,Manual,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,(+Other),,
+RTTreatedPlan_TypeOfPatientPositioningDevice,3D Printed Device,1015759,
+RTTreatedPlan_TypeOfPatientPositioningDevice,Angle Board,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Breast Board Prone,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Breast Board Supine,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Custom Cradle Full Body,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Custom Cradle Treatment Area,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Device Indexed to Couch,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Foot Blocks,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Mask Does Not Include Shoulders,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Mask Includes Shoulders,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Mask Regular Thickness,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,Mask Reinforced Thickness,,Y
+RTTreatedPlan_TypeOfPatientPositioningDevice,None,,
+RTTreatedPlan_TypeOfPatientPositioningDevice,Vendor Specific,,Y
+RTTreatedPlan_UsedFiducialsInIGRT,Boolean,,
+ReIrradationEvaluation_PriorDoseEstimateBasis,Clinician Notes,45949600,
+ReIrradationEvaluation_PriorDoseEstimateBasis,DICOM RT,37310584,
+ReIrradationEvaluation_PriorDoseEstimateBasis,Mockup Prior Plan on Current Structure Set,,Y
+ReIrradationEvaluation_PriorDoseEstimateBasis,No information available,,
+ReIrradationEvaluation_PriorDoseEstimateBasis,Radiation Treatment Plan Documents,,Y
+ReIrradationEvaluation_RegistrationBasis,Deformable Registration,,Y
+ReIrradationEvaluation_RegistrationBasis,Point Dose Estimate,,Y
+ReIrradationEvaluation_RegistrationBasis,Rigid Registration,,Y
+ReIrradationEvaluation_StructureName,TG263,,
+ReIrradiationEvaluation_ValueType,Component,4077552,
+ReIrradiationEvaluation_ValueType,Cumulative,,Y
+SysTherCourse_DistanceToPatientDomicileDirectUnits,Kilometers,9536,
+SysTherCourse_DistanceToPatientDomicileDirectUnits,Miles,4121361,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,(+Other),,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,Address,4265448,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,City,41883392,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,Country,41907100,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,County,4480350,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,GPS,601587,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,Postal Code,3043579,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,Province,37533495,
+SysTherCourse_DistanceToPatientPrimaryResidenceDirect Method,State,4161694,
+SysTherCourse_DistanceToPatientPrimaryResidenceDriving,"Reference Systems for Values: There are several applications which may be used to calculate driving distance between locations. References for determining Methods for Calculating travel distance AHRQ https://hcup-us.ahrq.gov/reports/methods/MS2021-02-Distance-to-Hospital.jsp#t1 , https://ij-healthgeographics.biomedcentral.com/articles/10.1186/1476-072X-7-63",,
+SysTherCourse_DistanceToPatientPrimaryResidenceDrivingUnits,Kilometers,9536,
+SysTherCourse_DistanceToPatientPrimaryResidenceDrivingUnits,Miles,4121361,
+SysTherCourse_ResidenceDuringTreatment,Other Location,,
+SysTherCourse_ResidenceDuringTreatment,Other Location Subsidized,,
+SysTherCourse_ResidenceDuringTreatment,Primary Residence,,
+SysTherCourse_Type,Androgen Deprivation,35806821,
+SysTherCourse_Type,Immunotherapy,35803410,
+SysTherCourse_Type,Radiopharmaceutical,,
+SysTherCourse_Type,Targeted,912065,
+SysTherCycleDrugsADT_DrugName,(+ Other),,
+SysTherCycleDrugsADT_DrugName,Casodex,19021244,
+SysTherCycleDrugsADT_DrugName,Diethylstilbestrol (DES),1525866,
+SysTherCycleDrugsADT_DrugName,Fine-particle abiraterone,,Y
+SysTherCycleDrugsADT_DrugName,Histerlin,1366773,
+SysTherCycleDrugsADT_DrugName,Ketoconazole plus hydrocortisone,35806852,
+SysTherCycleDrugsADT_DrugName,Methylprednisone,1506270,
+SysTherCycleDrugsADT_DrugName,darotalutamide,136129,
+SysTherCycleDrugsChemo_AdministrationMethod,Intramuscular,4116871,
+SysTherCycleDrugsChemo_AdministrationMethod,Intravascular Infusion,44792205,
+SysTherCycleDrugsChemo_DrugName,(+ Other),,
+SysTherCycleDrugsImmuno _DrugName,(+ Other),,
+SysTherCycle_AdministrationFrequency,Every Other Day,3407163,
+SysTherCycle_AdministrationFrequency,Once Daily,4041300,
+SysTherCycle_AdministrationFrequency,Three Times Per Day,4041301,
+SysTherCycle_AdministrationFrequency,Two Times per Day,45921907,
+SysTherCycle_CycleStatus,Completed,,Y
+SysTherCycle_CycleStatus,Started but not Completed,,Y
